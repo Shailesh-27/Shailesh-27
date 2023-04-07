@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm also a Flutter Developer with 1 year of experience.<br>🔭 I’m currently working on Data Science Project.<br>🌱 I’m currently learning SQL and Python.<br>💬 Ask me about Flutter.<br>📫 How to reach me: prajapatishailesh4533@gmail.com<br>😄 Happy Learning, Be Consistent<br>
+🔭 I'm Flutter Developer with 1 year of experience.<br>🔭 I’m currently working on Data Science Project.<br>🌱 I’m currently learning SQL and Python.<br>💬 Ask me about Flutter.<br>📫 How to reach me: prajapatishailesh4533@gmail.com<br>😄 Happy Learning, Be Consistent<br>
 
 
 ## 🌐 Socials:
